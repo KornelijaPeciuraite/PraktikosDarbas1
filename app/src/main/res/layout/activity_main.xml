@@ -17,8 +17,8 @@
 
     <Button
         android:id="@+id/btnchangetext"
-        android:layout_width="163dp"
-        android:layout_height="58dp"
+        android:layout_width="146dp"
+        android:layout_height="50dp"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
